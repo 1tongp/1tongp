@@ -1,20 +1,5 @@
 ### Hi, I'm Yitong (Daisy) Pei 👩‍💻
 
-<!--
-**1tongp/1tongp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my personal website development.
-- 🌱 I’m currently learning the AWS Cloud Computing. 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <br />
 <p align="center">
     <img src="https://avatars.githubusercontent.com/u/71160237?s=400&u=0252f3346f4624c5b55d23bb4a1f2f789e67debe&v=4" alt="Profile Image" width="80" height="80">
