@@ -43,7 +43,7 @@
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/nodejs.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/mysql.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/1tongp/1tongp/blob/main/icons/mmongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/confluence.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/heroku.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
