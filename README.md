@@ -1,4 +1,4 @@
-### Hi, I'm Yitong (Daisy) Pei 👩‍💻
+### Hi, I'm Yitong (Daisy) Pei 👋
 
 
 
@@ -21,7 +21,7 @@
   </p>
 </p>
 
-## About Me : 
+## 👩‍💻 About Me : 
 
 **As a passionate and motivated postgraduate student in Artificial Intelligence, I am seeking to leverage my practical learnings and experience and grow my career as a Graduate Software Engineer. I am a fast and efficient learner, with a proven ability to manage multiple priorities in deadline-driven environments.**
 
@@ -30,4 +30,15 @@
 
 
 ## :hammer_and_wrench: Languages :
+<div>
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/haskell.svg" title="Haskell" alt="Haskell" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/r.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/matlab.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
+  
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1tongp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
