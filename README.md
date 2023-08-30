@@ -17,7 +17,7 @@
     <br />
     Reach me: 
     <a href="https://www.linkedin.com/in/daisy-pei-b67763211/">LinkedIn</a>
-    .
+    |
     <a href="mailto:yitongp22@gmail.com?">Email</a>
   </p>
 </p>
