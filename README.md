@@ -39,6 +39,7 @@
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/haskell.svg" title="Haskell" alt="Haskell" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/r.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/matlab.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/css3.svg" title="CSS3" alt="css3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/html5.svg" title="HTML5" alt="html5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
