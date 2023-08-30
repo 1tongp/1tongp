@@ -7,7 +7,7 @@
     <img align="left" src="https://avatars.githubusercontent.com/u/71160237?s=400&u=0252f3346f4624c5b55d23bb4a1f2f789e67debe&v=4" alt="Profile Image" width="160" height="160">
      <img align="right" src="https://github.com/1tongp/1tongp/blob/main/coder_gif.gif" alt="gif" width="30%" height="30%">
 
-  <p clear="right"">
+  <p clear="right">
     - Tutor @ Unimelb <br />
     - 22' Master of Artificial intelligence @ Nanyang Technological University, Singapore <br />
     - 20' Bachelor of Computing and Software Systems @ University of Melbourne, Australia 
@@ -30,7 +30,7 @@
 
 
 ## :hammer_and_wrench: Languages :
-<div>
+<div align="right">
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
