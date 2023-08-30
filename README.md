@@ -5,7 +5,7 @@
 <br />
 <p align="center">
     <img align="left" src="https://avatars.githubusercontent.com/u/71160237?s=400&u=0252f3346f4624c5b55d23bb4a1f2f789e67debe&v=4" alt="Profile Image" width="160" height="160">
-     <img align="right" src="[https://avatars.githubusercontent.com/u/71160237?s=400&u=0252f3346f4624c5b55d23bb4a1f2f789e67debe&v=4](https://github.com/1tongp/1tongp/blob/main/coder_gif.gif)" alt="gif">
+     <img align="right" src="https://github.com/1tongp/1tongp/blob/main/coder_gif.gif" alt="gif">
 
   <p clear="right"">
     Tutor @ Unimelb <br />
