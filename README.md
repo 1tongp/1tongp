@@ -4,7 +4,7 @@
 
 <br />
 <p align="center">
-    <img align="left" src="https://github.com/1tongp/1tongp/blob/main/IMG_1172.JPG" alt="Profile Image" width="160" height="160">
+    <img align="left" src="https://github.com/1tongp/1tongp/blob/main/IMG_1172.JPG" alt="Profile Image" width="120%" height="120%">
      <img align="right" src="https://github.com/1tongp/1tongp/blob/main/coder_gif.gif" alt="gif" width="30%" height="30%">
 
   <p clear="right">
