@@ -7,21 +7,23 @@
   <h3 align="center">Hi there, I'm Yitong (Daisy) Pei</h3>
 
   <p align="center">
-    Tutor @ Unimelb 
-    22' Master of Artificial intelligence @ Nanyang Technological University, Singapore 
-    20' Bachelor of Computing and Software Systems @ University of Melbourne, Australia
+    Tutor @ Unimelb <br />
+    22' Master of Artificial intelligence @ Nanyang Technological University, Singapore <br />
+    20' Bachelor of Computing and Software Systems @ University of Melbourne, Australia 
     <br />
 <!--     <a href="https://room-of-requirement.atlassian.net/wiki/spaces/ROR/pages/14975667/Introduction"><strong>Explore the project Confluence 
     page »</strong></a> -->
     <br />
     <a href="https://www.linkedin.com/in/daisy-pei-b67763211/">LinkedIn</a>
     .
-    [Email me](mailto:yitongp22@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+    <a href="mailto:yitongp22@gmail.com?">Email Me</a>
   </p>
 </p>
 
+## About Me
 
-As a passionate and motivated postgraduate student in Artificial Intelligence, I am seeking to leverage my practical learnings and experience and grow my career as a Graduate Software Engineer. I am a fast and efficient learner, with a proven ability to manage multiple priorities in deadline-driven environments.
+**As a passionate and motivated postgraduate student in Artificial Intelligence, I am seeking to leverage my practical learnings and experience and grow my career as a Graduate Software Engineer. I am a fast and efficient learner, with a proven ability to manage multiple priorities in deadline-driven environments.**
 
 ## Skills
+- 
 🌱 I’m currently learning the AWS Cloud Computing. 
