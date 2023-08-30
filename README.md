@@ -29,7 +29,7 @@
 🌱 I’m currently learning the AWS Cloud Computing. 
 
 
-## :hammer_and_wrench: Languages :
+## :hammer_and_wrench: Languages and Tools :
 <div align="center">
 <div align="right">
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -38,7 +38,18 @@
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/haskell.svg" title="Haskell" alt="Haskell" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/r.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/1tongp/1tongp/blob/main/icons/matlab.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/css3.svg" title="CSS3" alt="css3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/html5.svg" title="HTML5" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/nodejs.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/mysql.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/mmongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/confluence.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/heroku.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/latex.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
+  
+  
   
 </div>
 <div align="left">
