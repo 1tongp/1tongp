@@ -5,6 +5,7 @@
 <br />
 <p align="center">
     <img align="left" src="https://avatars.githubusercontent.com/u/71160237?s=400&u=0252f3346f4624c5b55d23bb4a1f2f789e67debe&v=4" alt="Profile Image" width="160" height="160">
+    ![](https://github.com/1tongp/1tongp/blob/main/coder_gif.gif)
   <p clear="right"> ![](https://github.com/1tongp/1tongp/blob/main/coder_gif.gif) </p>
 
   <p clear="right"">
