@@ -41,7 +41,9 @@
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/matlab.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
   
 </div>
-
+<div align="left">
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1tongp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 </div>
