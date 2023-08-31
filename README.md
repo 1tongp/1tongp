@@ -15,10 +15,11 @@
 <!--     <a href="https://room-of-requirement.atlassian.net/wiki/spaces/ROR/pages/14975667/Introduction"><strong>Explore the project Confluence 
     page »</strong></a> -->
     <br />
-    Reach me: 
+    <h3> Reach me: 
     <a href="https://www.linkedin.com/in/daisy-pei-b67763211/">LinkedIn</a>
     |
     <a href="mailto:yitongp22@gmail.com?">Email</a>
+    </h3>
   </p>
 </p>
 
