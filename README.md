@@ -1,4 +1,4 @@
-### Hi, I'm Yitong (Daisy) Pei 👋
+### Hi, I'm Yitong (Daisy) Pei 👋🏼
 
 
 
@@ -23,12 +23,12 @@
   </p>
 </p>
 
-## 👩‍💻 About Me : 
+## 👩🏻‍💻 About Me : 
 
 **As a passionate and motivated postgraduate student in Artificial Intelligence, I am seeking to leverage my practical learnings and experience and grow my career as a Graduate Software Engineer. I am a fast and efficient learner, with a proven ability to manage multiple priorities in deadline-driven environments.**
 
 
-🌱 I’m currently learning the AWS Cloud Computing. 
+🌱 I’m currently learning the AWS Cloud Computing.
 
 
 ## :hammer_and_wrench: Languages and Tools :
