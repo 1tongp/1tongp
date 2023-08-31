@@ -32,7 +32,6 @@
 
 ## :hammer_and_wrench: Languages and Tools :
 <div align="center">
-<div align="right">
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -50,13 +49,4 @@
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/heroku.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/latex.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
-  
-  
-  
-</div>
-<div align="left">
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1tongp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 </div>
