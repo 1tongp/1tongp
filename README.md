@@ -48,5 +48,5 @@
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/confluence.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/heroku.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/1tongp/1tongp/blob/main/icons/latex.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/latex.png" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
 </div>
