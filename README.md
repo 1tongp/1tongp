@@ -5,6 +5,8 @@
 <br />
 <p align="center">
     <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> 
+    
+<div class="badge-base LI-profile-badge" data-locale="zh_CN" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="daisy-pei-b67763211" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/daisy-pei-b67763211?trk=profile-badge">Daisy Pei</a></div>
     <img align="left" src="https://github.com/1tongp/1tongp/blob/main/IMG_1172.JPG" alt="Profile Image" width="35%" height="35%">
      <img align="right" src="https://github.com/1tongp/1tongp/blob/main/coder_gif.gif" alt="gif" width="30%" height="30%">
 
@@ -27,8 +29,6 @@
 ## 👩🏻‍💻 About Me : 
 
 **As a passionate and motivated postgraduate student in Artificial Intelligence, I am seeking to leverage my practical learnings and experience and grow my career as a Graduate Software Engineer. I am a fast and efficient learner, with a proven ability to manage multiple priorities in deadline-driven environments.**
-
-<div class="badge-base LI-profile-badge" data-locale="zh_CN" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="daisy-pei-b67763211" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/daisy-pei-b67763211?trk=profile-badge">Daisy Pei</a></div>
               
 🌱 I’m currently learning the AWS Cloud Computing.
 
