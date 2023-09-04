@@ -27,7 +27,9 @@
 
 **As a passionate and motivated postgraduate student in Artificial Intelligence, I am seeking to leverage my practical learnings and experience and grow my career as a Graduate Software Engineer. I am a fast and efficient learner, with a proven ability to manage multiple priorities in deadline-driven environments.**
 
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="zh_CN" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="daisy-pei-b67763211" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/daisy-pei-b67763211?trk=profile-badge">Daisy Pei</a></div>
+              
 🌱 I’m currently learning the AWS Cloud Computing.
 
 
