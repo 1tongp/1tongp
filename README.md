@@ -20,7 +20,7 @@
     |
     <a href="mailto:yitongp22@gmail.com?">Email</a>
     |
-    <a hred="https://www.yitongp.com/">Personal Profile Website</a>
+    <a href="https://www.yitongp.com/">Personal Profile Website</a>
     </h3>
   </p>
 </p>
