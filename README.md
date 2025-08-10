@@ -31,16 +31,15 @@
 <div align="center">
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/1tongp/1tongp/blob/main/icons/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/typescript-svgrepo-com.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/1tongp/1tongp/blob/main/icons/react-native.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/nodejs.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/1tongp/1tongp/blob/main/icons/playwright.svg" title="Playwright" alt="Playwright" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/1tongp/1tongp/blob/main/icons/aws.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/1tongp/1tongp/blob/main/icons/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/Playwright--Streamline-Svg-Logos.svg" title="Playwright" alt="Playwright" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/1tongp/1tongp/blob/main/icons/mysql.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/1tongp/1tongp/blob/main/icons/pytorch.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/confluence.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/1tongp/1tongp/blob/main/icons/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>  
 
 ---
